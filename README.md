@@ -39,7 +39,7 @@ ___
 ___
 * <strong>Module 2:</strong> Introduction to Multivariable Statistics and Machine Learning for Single-Cell Data (June 14 – 18).
   * Live Tutorial 2a – Basic Statistical Analyses (Huy Vo)
-     - Explore basic univariate probability distributions. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y-vQeSG90wnd-0nj9EuSMuwvVbpWeQKw?usp=sharing)
+     - Explore basic univariate probability distributions. [![Open In Colab](https://colab.research.google.com/drive/1ekc4tqg3KNGF3rgeD_P1fXcTGiZVcCyo?usp=sharing)
      - Visualization and summary statistics for multivariate and time-series data. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1puWyLfbxooDcjrNwzBIydFHQp_HcEeuZ?usp=sharing)
      - Linear Regression: estimating free diffusion coefficient from mean squared displacements. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vYDFjdKw9L8MIl9PmtvBCRlaTIifZFWn?usp=sharing)
   * Live Tutorial 2b - Machine Learning with a Simulated Nascent Chain Dataset (Will/Zach)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rmTNVq6erTA0M8YFPz0uF7h5A6L7-M4J?usp=sharing)
