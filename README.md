@@ -11,7 +11,7 @@
 
 ## Description
 
-This repository contains the materials for the 2ns Annual Undergraduate Quantitative Biology (UQ-bio) Summer School.
+This repository contains the materials for the 2nd Annual Undergraduate Quantitative Biology (UQ-bio) Summer School.
 
 ***
 ## Modules
