@@ -1,0 +1,41 @@
+axes.titlesize : 18
+axes.labelsize : 16
+axes.linewidth: 1.3
+axes.prop_cycle: cycler('color', ['74ebe4', 'ff6667','9e62de','15596f', 'd9d0ad','6f3327','d08c25','5a245f' ])
+axes.titleweight: bold
+axes.grid: True
+axes.labelpad: 1
+axes.titlepad: 8
+
+grid.alpha: .5
+grid.linestyle: --
+grid.color: e9f7fa
+
+
+lines.linewidth : 1.5
+lines.markersize : 10
+
+xtick.labelsize : 12
+xtick.major.width: 1.2
+ytick.labelsize : 12
+ytick.major.width:1.2
+
+figure.dpi:120
+figure.facecolor: 1e1c20
+figure.edgecolor: 1e1c20
+axes.facecolor: 1e1c20
+
+patch.edgecolor: e9f7fa
+hatch.color:e9f7fa
+boxplot.flierprops.color: e9f7fa
+boxplot.flierprops.markeredgecolor: e9f7fa
+boxplot.boxprops.color: e9f7fa
+boxplot.capprops.color: e9f7fa
+text.color: e9f7fa
+axes.edgecolor: e9f7fa
+axes.labelcolor: e9f7fa
+xtick.color: e9f7fa
+ytick.color: e9f7fa
+
+
+legend.shadow: True

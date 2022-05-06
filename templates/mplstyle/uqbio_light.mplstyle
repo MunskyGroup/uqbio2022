@@ -1,0 +1,41 @@
+axes.titlesize : 18
+axes.labelsize : 16
+axes.linewidth: 1.3
+axes.prop_cycle: cycler('color', ['18737a', 'a82e36','68bd8f','604380', '19274f','c6bf55','576244' ])
+axes.titleweight: bold
+axes.grid: True
+axes.labelpad: 1
+axes.titlepad: 8
+
+grid.alpha: .7
+grid.linestyle: --
+grid.color: gray
+
+
+lines.linewidth : 1.5
+lines.markersize : 10
+
+xtick.labelsize : 12
+xtick.major.width: 1.2
+ytick.labelsize : 12
+ytick.major.width:1.2
+figure.dpi:120
+
+figure.facecolor: white
+figure.edgecolor: white
+axes.facecolor: white
+
+patch.edgecolor: black
+hatch.color:black
+boxplot.flierprops.color: black
+boxplot.flierprops.markeredgecolor: black
+boxplot.boxprops.color: black
+boxplot.capprops.color: black
+text.color: black
+axes.edgecolor: black
+axes.labelcolor: black
+xtick.color: black
+ytick.color: black
+
+
+legend.shadow: True
