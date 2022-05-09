@@ -1,13 +1,8 @@
-
-
 <center><h1> Repository for the 2nd Annual Undergraduate Quantitative Biology (UQ-bio) Summer School. </h1></center>
 
 <strong>Authors:</strong> Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera, William Raymond, Zachary Fox, Lisa Weber, and Huy D. Vo.
 
-[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-
-![Intro](https://github.com/MunskyGroup/uqbio2022/blob/main/templates/intro.png)
-
+![Intro](https://github.com/MunskyGroup/uqbio2021/blob/main/templates/2022/intro.png)
 
 ## Description
 
@@ -27,7 +22,6 @@ ___
  ---
   * Live Tutorial 0a - Basic Image manipulation in a Python interactive notebook (Luis Aguilera)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o3JJE4EjfW9P5ZITEeS5p8Ui60xV3etK?usp=sharing)
-  * Live Tutorial 0b – PySB. A Python framework for systems biology modeling.  (Carlos Lopez, Samantha Beik, Alexander Lubbock) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lolab-vu/pysb-tutorials/HEAD)
   * Solutions for questions posed during hacking sessions and Tutorial 0a! [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pqA3wcnBraF0_EkqkN8Ush6DCPq3-5Oq?usp=sharing)
 ___
 * <strong>Module 1:</strong> Introduction to Single-Cell Optical Microscopy Experiments and Image Processing (June 7 – 11).
@@ -66,28 +60,6 @@ Processes (July 5 – 9).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NEoITkInSKBCRzD0kt8dgw-Z2KmvWXC0?usp=sharing)
 ***
 
-## Projects Notebooks
-* <strong>Project 1:</strong> Single-cell yeast response dynamics. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](add link)
-___
-* <strong>Project 2:</strong>  Single-cell RNA FISH analysis.  
-   - __Weeks 0-2__: Extracting quantitative information from single-cell RNA-FISH images [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BMgfe8jsX9xsfIIppyXTj8q7d8YXw8wy?usp=sharing)
-   - __Week 3__: Simulating stochastic gene expression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FBB54T8GtXV5XU1MV6N-o_JDUbktc232?usp=sharing)
-   - __Week 4__: 
-     - Part A: FSP for bursting gene model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1My3K0r2DXXjdBALHPQw8VHKo5ZxABWBo?usp=sharing)
-       - Solution to Part A: [https://colab.research.google.com/drive/1HWhBk8CwwZl77BTTt6oYomXTGcP5qjmi?usp=sharing]
-     - Part B: Computing smFISH log-likelihood with FSP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hsz2H_gGvOxl2De-2r77qfP-tBFkEJC1?usp=sharing)
-       - Solution to Part B: [https://colab.research.google.com/drive/1krPeCWiAVwNuuoXrTvqrV-AOnu261Dp3?usp=sharing]
-___
-* <strong>Project 3:</strong>  Single mRNA translation dynamics,
-  - <strong>Week 1:</strong>  - Homework - Image processing.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1aKyCPFvfdntDvTfE3kdg6bG9vyNQgfjF?usp=sharing)
-      - Homework - Image processing (<strong>solutions</strong>).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1pY7WJSNzWEVLmUWPDnDiD5XWyCqxzsKO?usp=sharing)
-  - <strong>Week 2:</strong>  - Homework - Statistics / Machine Learning.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SRzBYR_AtGIJQkh-l_1j3RwUpUNyeuKs?usp=sharing )
-      - Homework - Statistics / Machine Learning (<strong>solutions</strong>).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d8qVqOpIliyZJtBbeAAY-iNpemF_MZx1?usp=sharing )
-  - <strong>Week 3:</strong>  - Homework - Stochastic Simulations.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/144OssuB-7CL3mIzarMoBpOtyaWpZEmCB?usp=sharing)
-      - Homework - Stochastic Simulation (<strong>solutions</strong>).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ua7MX3Cr5qfIVsTdIWzM0fC7KdvdElyO?usp=sharing)
-  - <strong>Week 4:</strong>  - Homework - Parameter inference (<strong>solutions</strong>).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1Sku6ZcK1YUV1lXJuJiXR4K17ysA83J0v?usp=sharing).
-  - <strong>Week 5:</strong>  - Homework. Work with your team on your final project presentation. For the final project report follow these [guidelines](https://github.com/MunskyGroup/uqbio2021/blob/main/uq_bio2021_projects.pdf).
-***
+## Licensing
 
-## Databases
-To access links to the databases will be provided by the instructors.
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
