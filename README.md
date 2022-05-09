@@ -1,12 +1,12 @@
 <center><h1> Repository for the 2nd Annual Undergraduate Quantitative Biology (UQ-bio) Summer School. </h1></center>
 
-<strong>Authors:</strong> Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera, William Raymond, Zachary Fox, Lisa Weber, and Huy D. Vo.
-
 ![Intro](https://github.com/MunskyGroup/uqbio2021/blob/main/templates/2022/intro.png)
+
+<strong>Authors:</strong> Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera, William Raymond, Zachary Fox, Lisa Weber, and Huy D. Vo.
 
 ## Description
 
-This repository contains the materials for the 2nd Annual Undergraduate Quantitative Biology (UQ-bio) Summer School.
+Welcome to the 2nd Annual Undergraduate Quantitative Biology (UQ-bio) Summer School, in this repository you will find the Google Colab notebooks used during the tutorials.
 
 ***
 ## Modules
