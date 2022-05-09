@@ -3,13 +3,7 @@
 <strong>Authors:</strong> Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera, William Raymond, Zachary Fox, Lisa Weber, and Huy D. Vo.
 ___
 
-## Description
-
-Welcome to the 2nd Annual Undergraduate Quantitative Biology (UQ-bio) Summer School, in this repository you will find the Google Colab notebooks used during the tutorials.
-
-***
 ## Modules
-
 ___
 <left><h3> Module 0 (Online) : Getting Started with Basic Scientific Computing in Python. </h3></left>
 | Date (MST) | Location | Description | Link |
@@ -45,7 +39,7 @@ ___
 | June 10, 10:15-12:15 |  TBD | Tutorial 3.3 – Python Tutorial for Totally Asymmetric Exclusion Processes – Will Raymond |  Link |
 
 ___
-<left><h3> Module 4: Master Equation Analyses of Single-Cell Gene Regulatory Processes </h3></left>
+<left><h3> Module 4: Master Equation Analyses of Single-Cell Gene Regulatory Processes. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
 | June 13, 10:15-12:15 |  TBD | Tutorial 4.1 – Python Tutorial for Finite State Projection Analyses – Michael May|  Link |
