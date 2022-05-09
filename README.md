@@ -1,6 +1,6 @@
 ![<center><h1> Repository for the 2nd Annual Undergraduate Quantitative Biology (UQ-bio) Summer School. </h1></center>](https://github.com/MunskyGroup/uqbio2021/blob/main/templates/2022/intro.png)
 
-<strong>Authors:</strong> Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera, William Raymond, Zachary Fox, Lisa Weber, and Huy D. Vo.
+<strong>Authors:</strong> Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera, William Raymond, Zachary R. Fox, Lisa Weber, Kaan Ocal, and Huy D. Vo.
 ___
 
 ## Modules
@@ -27,7 +27,7 @@ ___
 <left><h3> Module 2 : Multivariable Statistics and Machine Learning for Single-Cell Data. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
-| June 6, 10:15-12:15 | TBD | 2.1 – Python Tutorial for Basic Probability Distributions and Sampling – Prof. Brian Munsky |  Link |
+| June 6, 10:15-12:15 | TBD | 2.1 – Python Tutorial for Basic Probability Distributions and Sampling – Dr. Brian Munsky |  Link |
 | June 7, 10:15-12:15 | TBD | 2.2 – Python Tutorial for Supervised Learning – Will Raymond  |  Link |
 
 ___
