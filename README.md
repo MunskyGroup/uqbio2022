@@ -8,9 +8,9 @@ ___
 <left><h3> Module 0 (Online) : Getting Started with Basic Scientific Computing in Python. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
+| May 15-31 | Online | Intro to Python: Hello (Python) World, Types, Arithmetic Operations, Iterables, and Containers | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12Y_CjqZ3XB5WPkgs9VO2OYPNqyvUsdM7?usp=sharing) |  
 | May 15-31 | Online | Intro to Python: Google colab environment setup and navigation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kQRGc16ntylyT685aOrSDelbz3JudS9k?usp=sharing) |  
 | May 15-31 | Online |  Intro to Python: importing packages, classes/modules, os navigation, reading files | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RxAHmQZJNO2Kua7sWjY4KbRroUQGiWV7?usp=sharing) |  
-| May 15-31 | Online | Intro to Python: Types, Arithmetic Operations, Iterables, and Containers | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12Y_CjqZ3XB5WPkgs9VO2OYPNqyvUsdM7?usp=sharing) |  
 | May 15-31 | Online | Intro to Python: Loops, Ranges, Functions, Lambdas, List Comprehension| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dxjMyGbJdJQ9sM5GqdIo0OYwAU36288w?usp=sharing) |  
 | May 15-31 | Online | Intro to Python: Matplotlib visualization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oIbXLDQ0a5bRI5UJl3DEMNo816AEV1oP?usp=sharing) |  
 | May 15-31 | Online | Intro to Python: NumPy and Linear Algebra Review | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UlY-PBxhvvy_F29WbQ8be422BmKouBVs?usp=sharing) |  
