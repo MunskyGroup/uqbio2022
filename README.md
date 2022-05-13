@@ -9,7 +9,7 @@ ___
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
 | May 15-31 | Online | Python basics 1 (int, str, iterables, slicing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/167EXFCoYCTcqGqljwddWRF1nwTTc_eig?usp=sharing) |  
-| May | Online |  Python basics 2 (loops, ranges, functions, lambdas, list comprehension) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oMiuuyT0X_UBt9M0mU4klC_WTXCs2XOq?usp=sharing) |  
+| May 15-31 | Online |  Python basics 2 (loops, ranges, functions, lambdas, list comprehension) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oMiuuyT0X_UBt9M0mU4klC_WTXCs2XOq?usp=sharing) |  
 | May 15-31 | Online |  Python basics 3 (importing packages, classes/modules, os navigation, reading files) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SxDI--nHoP7tkq9tMBVcvmqSD8NoZLOo?usp=sharing) |  
 | May 15-31 | Online |  Python basics 4 (Numpy and Linear Algebra Review) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UpYhbEogKW7T03Wz6-6sLg4TdEVYbPIP?usp=sharing) |  
 | May 15-31 | Online |  Python basics 5 (Colab Environment setup and navigation) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z4KaQvTRLPsZ8-OHz7RzpieT3mgZVi1Q?usp=sharing) |  
