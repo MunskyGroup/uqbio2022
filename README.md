@@ -19,7 +19,7 @@ ___
 <left><h3> Module 1 : Single-Cell Optical Microscopy Experiments and Image Processing. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
-| June 1, 10:15-12:15 | TBD | 1.1 – Python Review and Basic Image Processing - Will Raymond |  Link |
+| June 1, 10:15-12:15 | TBD | 1.1 – Python Review and Basic Image Processing - Dr. Luis Aguilera |  Link |
 | June 2, 10:15-12:15 | TBD | 1.2 – Python Tutorial for Cell Segmentation and smFISH – Dr. Luis Aguilera  |  Link |
 | June 3, 10:15-12:15 | TBD | 1.3 – Python Tutorial for Particle Tracking – Dr. Luis Aguilera  |  Link |
 
@@ -27,7 +27,7 @@ ___
 <left><h3> Module 2 : Multivariable Statistics and Machine Learning for Single-Cell Data. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
-| June 6, 10:15-12:15 | TBD | 2.1 – Python Tutorial for Basic Probability Distributions and Sampling – Dr. Brian Munsky |  Link |
+| June 6, 10:15-12:15 | TBD | 2.1 – Python Tutorial for Basic Probability Distributions and Sampling – Dr. Ania Baetica |  Link |
 | June 7, 10:15-12:15 | TBD | 2.2 – Python Tutorial for Supervised Learning – Will Raymond  |  Link |
 
 ___
@@ -42,9 +42,9 @@ ___
 <left><h3> Module 4 : Master Equation Analyses of Single-Cell Gene Regulatory Processes. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
-| June 13, 10:15-12:15 | TBD | 4.1 – Python Tutorial for Finite State Projection Analyses – Michael May|  Link |
-| June 14, 10:15-12:15 | TBD | 4.2 – Python Tutorial for Model Optimization and Data Fitting – Dr. Zachary R Fox|  Link |
-| June 15, 10:15-12:15 | TBD | 4.3 – Python Tutorial for MCMC and Metropolis Hastings Analysis – Dr. Kaan Ocal|  Link |
+| June 13, 10:15-12:15 | TBD | 4.1 – Python Tutorial for Finite State Projection Analyses – Michael May |  Link |
+| June 14, 10:15-12:15 | TBD | 4.2 – Python Tutorial for Model Optimization and Data Fitting – Dr. Zachary R Fox |  Link |
+| June 15, 10:15-12:15 | TBD | 4.3 – Python Tutorial for MCMC and Metropolis Hastings Analysis – Dr. Brian Munsky |  Link |
 
 ## Licensing
 
