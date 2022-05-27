@@ -9,7 +9,7 @@ ___
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
 | May 15-31 | Online | Intro to Python: Hello (Python) World, Types, Arithmetic Operations, Iterables, and Containers | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12Y_CjqZ3XB5WPkgs9VO2OYPNqyvUsdM7?usp=sharing) |  
-| May 15-31 | Online | Intro to Python: Google colab environment setup and navigation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kQRGc16ntylyT685aOrSDelbz3JudS9k?usp=sharing) |  
+| May 15-31 | Online | Intro to Python: Google Colab environment setup and navigation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kQRGc16ntylyT685aOrSDelbz3JudS9k?usp=sharing) |  
 | May 15-31 | Online |  Intro to Python: importing packages, classes/modules, os navigation, reading files | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RxAHmQZJNO2Kua7sWjY4KbRroUQGiWV7?usp=sharing) |  
 | May 15-31 | Online | Intro to Python: Loops, Ranges, Functions, Lambdas, List Comprehension| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dxjMyGbJdJQ9sM5GqdIo0OYwAU36288w?usp=sharing) |  
 | May 15-31 | Online | Intro to Python: Matplotlib visualization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oIbXLDQ0a5bRI5UJl3DEMNo816AEV1oP?usp=sharing) |  
@@ -22,9 +22,6 @@ ___
 | June 1, 10:15-12:15 | TBD | 1.1 – Python Review and Basic Image Processing - Dr. Luis Aguilera | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cOzLyKrKznlc2olymshHeQMalCG9IydW?usp=sharing) |
 | June 2, 10:15-12:15 | TBD | 1.2 – Python Tutorial for Cell Segmentation and smFISH – Dr. Luis Aguilera  |  Link |
 | June 3, 10:15-12:15 | TBD | 1.3 – Python Tutorial for Particle Tracking – Dr. Luis Aguilera  |  Link |
-
-
-
 
 ___
 <left><h3> Module 2 : Multivariable Statistics and Machine Learning for Single-Cell Data. </h3></left>
