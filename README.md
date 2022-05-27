@@ -19,9 +19,12 @@ ___
 <left><h3> Module 1 : Single-Cell Optical Microscopy Experiments and Image Processing. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
-| June 1, 10:15-12:15 | TBD | 1.1 – Python Review and Basic Image Processing - Dr. Luis Aguilera |  Link |
+| June 1, 10:15-12:15 | TBD | 1.1 – Python Review and Basic Image Processing - Dr. Luis Aguilera |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cOzLyKrKznlc2olymshHeQMalCG9IydW?usp=sharing)  |
 | June 2, 10:15-12:15 | TBD | 1.2 – Python Tutorial for Cell Segmentation and smFISH – Dr. Luis Aguilera  |  Link |
 | June 3, 10:15-12:15 | TBD | 1.3 – Python Tutorial for Particle Tracking – Dr. Luis Aguilera  |  Link |
+
+
+
 
 ___
 <left><h3> Module 2 : Multivariable Statistics and Machine Learning for Single-Cell Data. </h3></left>
