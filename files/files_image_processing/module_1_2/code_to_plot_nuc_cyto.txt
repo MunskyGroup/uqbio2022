@@ -1,0 +1,12 @@
+
+mask_copy = masks_cyto.copy()
+mask_ones = np.where(mask_copy>0,1,0)
+fig, ax = plt.subplots(1,4, figsize=(20, 10))
+temp0= np.max(images_FISH[:,:,:,0],axis=0)  /np.max(np.max(images_FISH[:,:,:,0],axis=0))
+temp1= np.max(images_FISH[:,:,:,1],axis=0)  /np.max(np.max(images_FISH[:,:,:,1],axis=0))
+temp2= np.max(images_FISH[:,:,:,2],axis=0)  /np.max(np.max(images_FISH[:,:,:,2],axis=0))
+ax[0].imshow(  temp0+temp1+temp2   ,cmap='Spectral')
+ax[1].imshow(  temp0+temp1+temp2   ,cmap='Spectral')
+ax[2].imshow(mask_ones,cmap='gray')
+ax[3].imshow(masks_cyto,cmap='Spectral')
+plt.show()
