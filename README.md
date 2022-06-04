@@ -28,7 +28,9 @@ ___
 <left><h3> Module 2 : Multivariable Statistics and Machine Learning for Single-Cell Data. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
-| June 6, 10:15-12:15 | TBD | 2.1 – Python Tutorial for Basic Probability Distributions and Sampling – Dr. Ania Baetica | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/15BRpzfiI-9sI-szKplNaurhTwvZWUKgM?usp=sharing](https://colab.research.google.com/drive/1Ik9GsL5TR31oz1yCwffd_D5DKORbzfV-?usp=sharing)) |
+| June 6, 10:15-12:15 | TBD | 2.1.A – Python Tutorial for Basic Probability Distributions and Sampling – Dr. Ania Baetica | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ik9GsL5TR31oz1yCwffd_D5DKORbzfV-?usp=sharing) |
+| June 6, 10:15-12:15 | TBD | 2.1.B – Python Tutorial for basic Multivariate Statistics – Dr. Ania Baetica | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ekc4tqg3KNGF3rgeD_P1fXcTGiZVcCyo?usp=sharing) |
+
 | June 7, 10:15-12:15 | TBD | 2.2 – Python Tutorial for Supervised Learning – Will Raymond  |  Link |
 
 ___
