@@ -36,9 +36,9 @@ ___
 <left><h3> Module 3 : Stochastic Simulations of Single-Cell Gene Regulatory Processes. </h3></left>
 | Date (MST) | Location | Description | Link |
 | --------| -------- | -------- | -------- |
-| June 8, 10:15-12:15 | C146 - Academic Village | 3.1 – Python Tutorial for Stoichiometries and Propensity Functions – Michael May  |  Link |
-| June 9, 10:15-12:15 | C146 - Academic Village | 3.2 –  Python Tutorial for Stochastic Simulation Algorithm – Joshua Cook  |  Link |
-| June 10, 10:15-12:15 | C146 - Academic Village | 3.3 – Python Tutorial for Totally Asymmetric Exclusion Processes – Will Raymond |  Link |
+| June 8, 10:15-12:15 | C146 - Academic Village | 3.1 – Python Tutorial for Stoichiometries and Propensity Functions – Michael May  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y_nexlCb3Ca8BOVnU1vzAY0nMrYPVoiu?usp=sharing)|
+| June 9, 10:15-12:15 | C146 - Academic Village | 3.2 –  Python Tutorial for Stochastic Simulation Algorithm – Joshua Cook  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YfbqFaJtDeG3f-SBHGr-Fgm2Uuft8h3K?usp=sharing) |
+| June 10, 10:15-12:15 | C146 - Academic Village | 3.3 – Python Tutorial for Totally Asymmetric Exclusion Processes – Will Raymond |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1258x0tMFfNHPFWAIaL3QqWSSmIPsOn0P?usp=sharing) |
 
 ___
 <left><h3> Module 4 : Master Equation Analyses of Single-Cell Gene Regulatory Processes. </h3></left>
