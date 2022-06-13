@@ -46,7 +46,7 @@ ___
 | --------| -------- | -------- | -------- |
 | June 13, 10:15-12:15 | C146 - Academic Village | 4.1 – Python Tutorial for Finite State Projection Analyses – Michael May |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y_Jg0O9Ew-XKzB7Hxnp0o0fg-qOYBHn1?usp=sharing) |
 | June 14, 10:15-12:15 | C146 - Academic Village | 4.2 – Python Tutorial for Model Optimization and Data Fitting – Dr. Zachary R Fox |  Link |
-| June 15, 10:15-12:15 | C146 - Academic Village | 4.3 – Python Tutorial for MCMC and Metropolis Hastings Analysis – Dr. Brian Munsky |  Link |
+| June 15, 10:15-12:15 | C146 - Academic Village | 4.3 – Python Tutorial for MCMC and Metropolis Hastings Analysis – Dr. Brian Munsky |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UmoPt57wh1VNdr9Z3E8S67HA3MjtxLkY?usp=sharing)|
 
 ## Licensing
 
